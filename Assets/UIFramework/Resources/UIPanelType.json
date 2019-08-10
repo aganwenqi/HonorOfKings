@@ -1,0 +1,13 @@
+{
+"infoList":
+[
+{"panelTypeString":"MainRoom",
+"path":"UIPanel/MainRoom"},
+
+{"panelTypeString":"RoomItem",
+"path":"UIPanel/RoomItem"},
+
+{"panelTypeString":"HeroSelection",
+"path":"UIPanel/HeroSelection"}
+]
+}
